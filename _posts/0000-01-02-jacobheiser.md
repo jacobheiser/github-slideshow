@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_Squirrels_ are a **Master Art!**
 Use the left arrow to go back!
